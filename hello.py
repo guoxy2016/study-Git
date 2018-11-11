@@ -10,3 +10,8 @@ for num in range(10):
         print(num)
 
 print("nihao ", "hanhou ", "danci ", "pingying ")
+
+
+a = 12
+b = 13
+c = 14
