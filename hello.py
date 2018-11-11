@@ -15,3 +15,15 @@ print("nihao ", "hanhou ", "danci ", "pingying ")
 a = 12
 b = 13
 c = 14
+
+
+
+
+
+
+
+
+
+
+
+a
