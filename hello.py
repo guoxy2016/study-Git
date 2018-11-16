@@ -16,14 +16,3 @@ a = 12
 b = 13
 c = 14
 
-a = 15
-
-ghjkl
-
-asdfaaa
-
-
-
-
-
-a
