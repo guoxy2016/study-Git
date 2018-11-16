@@ -22,6 +22,9 @@ c = 14
 
 asdf=121
 
+啊 = 'helllo'
+怕 = 'task'
+
 
 
 
