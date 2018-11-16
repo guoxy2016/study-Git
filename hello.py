@@ -13,6 +13,9 @@ print("nihao ", "hanhou ", "danci ", "pingying ")
 
 
 a = 12
+b = 1312313
+hello = 'sdfa'
+
 asdf=23
 b = 13
 c = 14
